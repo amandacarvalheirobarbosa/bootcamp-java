@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/bootcamp-java.iml" filepath="$PROJECT_DIR$/.idea/bootcamp-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-construtores/java-construtores.iml" filepath="$PROJECT_DIR$/java-construtores/java-construtores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-enum/java-enum.iml" filepath="$PROJECT_DIR$/java-enum/java-enum.iml" />
     </modules>
   </component>
 </project>
