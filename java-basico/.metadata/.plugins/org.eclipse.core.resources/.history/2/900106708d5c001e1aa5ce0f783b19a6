@@ -1,0 +1,12 @@
+package escola;
+
+public class Escola {
+	public static void main(String[] args) {
+		Aluno amanda = new Aluno();
+		amanda.nome = "Amanda";
+		amanda.idade = 25;
+		
+		System.out.println("O aluno " + amanda.nome + " tem " + amanda.idade + " anos de idade.");
+		
+	}
+}
