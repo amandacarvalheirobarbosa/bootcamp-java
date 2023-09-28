@@ -5,113 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32420d78-70e0-4333-8aa4-053c913b5bc3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java-poo-pilares/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-poo-pilares/mensagem/src/Computador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-poo-pilares/mensagem/src/FacebookMessenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-poo-pilares/mensagem/src/MSNMessenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-poo-pilares/mensagem/src/ServicoMensagemInstantanea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-poo-pilares/mensagem/src/Telegram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-poo-pilares/pilares/src/Autodromo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-poo-pilares/pilares/src/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-poo-pilares/pilares/src/Moto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-poo-pilares/pilares/src/MsnMessenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-poo-pilares/pilares/src/Veiculo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.idea/bootcamp-java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.mylyn/.taskListIndex/segments_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.mylyn/.taskListIndex/write.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.mylyn/.tasks.xml.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.mylyn/repositories.xml.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.mylyn/tasks.xml.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.resources/.history/1/004c880a8e5c001e1aa5ce0f783b19a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.resources/.history/2/900106708d5c001e1aa5ce0f783b19a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.resources/.history/29/a01d63048e5c001e1aa5ce0f783b19a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.resources/.history/30/703b9f308d5c001e1aa5ce0f783b19a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.resources/.history/4f/40cc0f1e8d5c001e1aa5ce0f783b19a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.resources/.history/55/c006136a8d5c001e1aa5ce0f783b19a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.resources/.history/5d/b0d43d368d5c001e1aa5ce0f783b19a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.resources/.history/76/8029e8988d5c001e1aa5ce0f783b19a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.resources/.history/7a/b06439188e5c001e1aa5ce0f783b19a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.resources/.history/89/80e3417f8e5c001e1aa5ce0f783b19a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.resources/.history/92/d0ebc4e08d5c001e1aa5ce0f783b19a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.resources/.history/c0/a03abc668d5c001e1aa5ce0f783b19a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.resources/.history/dd/c0fdbb148e5c001e1aa5ce0f783b19a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.resources/.history/e/40b63c9c8e5c001e1aa5ce0f783b19a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.resources/.history/ec/6021463b8d5c001e1aa5ce0f783b19a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.resources/.history/fc/300911228d5c001e1aa5ce0f783b19a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.resources/.projects/poo/.indexes/e4/71/history.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.resources/.projects/poo/.indexes/e4/history.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.resources/.projects/poo/.indexes/properties.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.resources/.projects/poo/org.eclipse.egit.core/GitProjectData.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.resources/.projects/poo/org.eclipse.jdt.core/state.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.resources/.root/2.tree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.junit.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.java.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.urischeme.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.debug.core/.launches/Escola.launch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.jdt.core/2565356412.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.jdt.core/3406171383.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.jdt.debug.ui/dialog_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2023/9/39/refactorings.history" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2023/9/39/refactorings.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/poo/2023/9/39/refactorings.history" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/poo/2023/9/39/refactorings.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.m2e.logback/0.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.2.0.20230625-0847.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.mylyn.github.ui/avatars.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.tm.terminal.view.ui/.executables/data.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/.metadata/version.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/out/production/java-enum/EstadoBrasileiro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basico/out/production/java-enum/SistemaIbge.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-poo-pilares/interface/src/Fabrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-poo-pilares/interface/src/equipamentos/copiadora/Copiadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-poo-pilares/interface/src/equipamentos/copiadora/Xerox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-poo-pilares/interface/src/equipamentos/digitalizadora/Digitalizadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-poo-pilares/interface/src/equipamentos/digitalizadora/Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-poo-pilares/interface/src/equipamentos/impressora/Deskjet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-poo-pilares/interface/src/equipamentos/impressora/Impressora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-poo-pilares/interface/src/equipamentos/impressora/Laserjet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-poo-pilares/interface/src/equipamentos/multifuncional/EquipamentoMultiFuncional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/bootcamp-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bootcamp-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-poo-pilares/mensagem/src/Computador.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-poo-pilares/mensagem/src/Computador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-poo-pilares/mensagem/src/FacebookMessenger.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-poo-pilares/mensagem/src/FacebookMessenger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-poo-pilares/mensagem/src/MSNMessenger.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-poo-pilares/mensagem/src/MSNMessenger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-poo-pilares/mensagem/src/ServicoMensagemInstantanea.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-poo-pilares/mensagem/src/ServicoMensagemInstantanea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-poo-pilares/mensagem/src/Telegram.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-poo-pilares/mensagem/src/Telegram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,11 +68,21 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Fabrica">
+    <configuration name="Fabrica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fabrica" />
+      <module name="bootcamp-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SistemaIbge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SistemaIbge" />
       <module name="java-enum" />
@@ -171,6 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fabrica" />
         <item itemvalue="Application.SistemaIbge" />
       </list>
     </recent_temporary>
